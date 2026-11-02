@@ -1,0 +1,75 @@
+{
+    "users": [
+        {
+            "name": "Midhun",
+            "mail": "midhun@gmail.com",
+            "password": "midhun123",
+            "issued_books": [
+                {
+                    "title": "The Pragmatic Programmer",
+                    "issue_date": "16-09-2026",
+                    "return_date": "24-09-2026"
+                },
+                {
+                    "title": "Automate the Boring Stuff with Python",
+                    "issue_date": "16-09-2026",
+                    "return_date": "30-09-2026"
+                }
+            ]
+        },
+        {
+            "name": "Alex",
+            "mail": "alex@gmail.com",
+            "password": "alex123",
+            "issued_books": []
+        },
+        {
+            "name": "Ajay",
+            "mail": "ajay@gmail.com",
+            "password": "ajay123",
+            "issued_books": []
+        },
+        {
+            "name": "Hari",
+            "mail": "hari@gmail.com",
+            "password": "hari123",
+            "issued_books": []
+        },
+        {
+            "name": "Alan",
+            "mail": "alan@gmail.com",
+            "password": "alan123",
+            "issued_books": []
+        },
+        {
+            "name": "Vijay",
+            "mail": "vijay@gmail.com",
+            "password": "vijay123",
+            "issued_books": []
+        },
+        {
+            "name": "Peter",
+            "mail": "peter@gmail.com",
+            "password": "peter123",
+            "issued_books": []
+        },
+        {
+            "name": "Rahul",
+            "mail": "rahul@gmail.com",
+            "password": "rahul123",
+            "issued_books": [
+                {
+                    "title": "Automate the Boring Stuff with Python",
+                    "issue_date": "16-09-2026",
+                    "return_date": "23-09-2026"
+                }
+            ]
+        },
+        {
+            "name": "nihas",
+            "mail": "ggg",
+            "password": "87yujh",
+            "issued_books": []
+        }
+    ]
+}
